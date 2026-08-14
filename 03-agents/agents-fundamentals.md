@@ -1,1 +1,1 @@
-
+An LLM application becomes an agentic system when it moves from generating responses to autonomously pursuing goals through planning, memory, tool use, state management, safety controls, human oversight, and continuous evaluation.
